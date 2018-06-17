@@ -1,2 +1,3 @@
 # Gizmo Music
-Is a light, simple and compact music player.
+A simple and compact music player.
+> Check the releases tag for downloads.
