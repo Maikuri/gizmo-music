@@ -1,3 +1,3 @@
-# Gizmo Music
-A simple and compact music player.
-> Check the releases tag for downloads. (https://github.com/GizmoGames/gizmo-music/releases)
+# Spotify Premium
+A awesome and better music player.
+> Check the releases tag for downloads. (https://www.spotify.com/us/download/)
